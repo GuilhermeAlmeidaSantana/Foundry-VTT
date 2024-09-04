@@ -11,3 +11,9 @@ Com tudo isso dito, eu pretendo fazer desse repositório um conjunto de coisas d
 https://drive.google.com/drive/folders/1cxxvSLCKh5KA_ASu5aq0vE84TDz7Ikvg?usp=sharing
 
 # Sistema de T20 no Foundry
+O sistema T20 tem suporte para o Foundry, no momento em que eu escrevo isso, o sistema não é oficial e não é verificado pela Jambô, mas é bem compotente para algo feito por poucas pessoas, ele possui tudo sistema base + as distinções básicas (não a do Heróis&Deuses de Arton), tudo isso para a versão Jogo do Ano.
+
+Para instalar, basta procurar na lista de sistemas dentro do próprio foundry. Para ler sobre o sistema e o modo como a ficha/efeitos/programação funciona. Leia sobre no site feito pelos desenvolvedores:
+https://vizael.gitlab.io/tormenta20-fvtt/
+
+Como eu disse, tudo na ficha funciona a base de efeitos, eles podem ser editados e modificados para caber nos efeitos que você queira, talvez uma homebrew ou até mesmo de um suplemento que não tenha suporte direto para o Foundry.
