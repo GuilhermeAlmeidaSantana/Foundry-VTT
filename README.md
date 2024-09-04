@@ -9,3 +9,5 @@ https://foundryvtt.com/ e https://dungeondraft.net/
 Com tudo isso dito, eu pretendo fazer desse repositório um conjunto de coisas de RPG, não necessariamente de pirataria, mas sim para coisas mais gerais também, talvez mais focado em Tormenta20 e Ordem Paranormal que são sistemas que eu acompanho mais frequentemente e coisas a mais para o foundry, como os módulos que eu uso para Tormenta20 que eu uso nele, além de uma campanha de Dungeons&Dragons que eu estou adaptando para T20 com tudo pronto, desde histórias, mapas e tudo que o foundry consegue dar a um usuário. 
 
 https://drive.google.com/drive/folders/1cxxvSLCKh5KA_ASu5aq0vE84TDz7Ikvg?usp=sharing
+
+# Sistema de T20 no Foundry
